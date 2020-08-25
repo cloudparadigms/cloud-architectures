@@ -96,4 +96,7 @@ Scalability of Google Cloud powering Healofy:
 6. Future Vision of the product -
    1. Personalization & Commerce
    2. Live streaming
+   
+   
+   Originally published at https://gansai.blogspot.com/2020/08/healofy-architecture-behind-scenes-of-4.html
 
