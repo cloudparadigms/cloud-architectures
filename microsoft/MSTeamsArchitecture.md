@@ -462,7 +462,12 @@ Federation communication - one tenant to another tenant.
 Communicaton -- customers, partners..
 
 
+PART 3 - APIs used by Microsoft Teams in the background
 
+Presence Resource - https://docs.microsoft.com/en-us/graph/api/resources/presence?view=graph-rest-beta
+
+This is for displaying the user's status and their activity
+json { "id":"string", "availability":"string", "activity":"string" }
 
 
 Please note that, many of the above parts might have become obsolete, as software is ever evolving 😊
@@ -470,4 +475,11 @@ Please note that, many of the above parts might have become obsolete, as softwar
 So, the next time, you use MS Teams, you know where the bits are flowing 😊🤖
 
 Originally published at: https://gansai.blogspot.com/2020/03/microsoft-teams-architecture.html
+
+
+UPDATE History:
+
+Initial Version - 9th August 2020
+Correction to calculations - Thanks to https://dev.to/pavitrag/comment/13ce2
+Added APIs - 1st Sep 2020
 
