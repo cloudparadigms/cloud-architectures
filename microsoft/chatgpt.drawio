@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T07:59:17.304Z" agent="5.0 (Windows)" etag="H5FbJzKznOs4fdEMW8Gk" version="21.0.6" type="github"><diagram name="Page-1" id="uiY8uIn1cioV-Bt3Oj-9">zZVLj5swEMc/DcdGPJJsrgm7aQ9bqVLUx/bmgAGrhkFmCCSfvmOwSQiJtiut2nLB/s+MH78Z204Q5u1HxcrsM8RcOr4bt07w6Pi+5y5c+mnl2CtLd9ELqRKxcToLO3HiNtKotYh5NXJEAImiHIsRFAWPcKQxpaAZuyUgx7OWLOUTYRcxOVW/ixizXl3ZbWn9ExdpZmf2XGPJmXU2QpWxGJoLKXhyglABYN/K25BLDc9y6eO2d6zDwhQv8E8CXg6npHW/Rch+PIuvLwX+DOMPZpQDk7XZsOMvJY23icWBmqluWmlvBXaqFbcqzbi/9iRtFN/tH48WqoK6iLlel0vmJhPIdyWLtLWhMiItw1xSzxuiD1whb+9u3RuAUiVyyDmqI7mYgPnc5MAUobc0/eacUs/mKbtIp/VjporSYegzaGoY1m/g7t/lPrBUTO+glAwTUPlgVjdY7/8f0v6YtP8w/8ekgwnpdYSgJqToeJa6Weeydwg2moSgq+CZ7bn8ApVAAQW57AER8guHtRSpNiBcEYUapSh4OFxO7vtgfriq58W0noO/CXl+o5zv8BV5d+NeUrqN8VX6Uhs2LPqVdlUegtRZo7mCpPvIpZtsXZVn+Mx2EtHqc7Ex63nMEPWTstYg/G0UF/5M0KOSCDo/ahbRjHSnMWT003qlj51+XrjSza1QPIF2VhbpO6TXW13ndznJ73J1I7+rN+eXuucnqLNdPOTB028=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-11T08:00:52.075Z" agent="5.0 (Windows)" etag="VuhLJ-SIjHMD_TBAZTF1" version="21.0.6" type="github">
+  <diagram name="Page-1" id="uiY8uIn1cioV-Bt3Oj-9">
+    <mxGraphModel dx="1050" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Yvzfx0VctaXLiUYntZCd-1" value="&lt;div&gt;&lt;b&gt;azure&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvzfx0VctaXLiUYntZCd-2" value="&lt;b&gt;ray platform&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvzfx0VctaXLiUYntZCd-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yvzfx0VctaXLiUYntZCd-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/browsers/Firefox.png" parent="1" vertex="1">
+          <mxGeometry x="180" y="156" width="68" height="68" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
